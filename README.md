@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Tushar Tandon</h1>
-<h3 align="center">BTech CSE Student | DSA Learner | Aspiring Developer</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=BTech+CSE+Student;DSA+Learner;Data+Science+Explorer;Frontend+Developer" />
+</p>
 
 <p align="center">
   <b>🚀 Consistency > Motivation</b>
@@ -9,10 +12,10 @@
 
 ## 🚀 About Me
 - 🎓 BTech Computer Science (2nd Year)  
-- 💻 Currently focused on Data Structures & Algorithms  
+- 💻 Focused on Data Structures & Algorithms  
 - 📊 Exploring Data Science  
-- 🌐 Learning Frontend Web Development  
-- 🧠 Building strong problem-solving skills  
+- 🌐 Learning Frontend Development  
+- 🧠 Improving problem-solving daily  
 
 ---
 
@@ -52,7 +55,7 @@
 
 ## 🧠 LeetCode Progress
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/tushartndon99?theme=dark&font=Baloo" />
+  <img src="https://leetcard.jacoblin.cool/tushartandon99?theme=dark&font=Baloo" />
 </p>
 
 ---
@@ -67,7 +70,7 @@
 
 ## 🌐 Connect With Me
 <p align="center">
-  <a href="https://linkedin.com/in/tushartandon99>
+  <a href="https://linkedin.com/in/tushartandon99">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
   </a>
   <a href="https://leetcode.com/tushartandon99">
