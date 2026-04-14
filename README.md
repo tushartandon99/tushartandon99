@@ -44,15 +44,15 @@
 
 ## 📊 GitHub Analytics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=tushartandon99&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tushartandon99&theme=tokyonight" />
 </p>
 
 ---
 
 ## 🧠 LeetCode Progress
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Baloo" />
+  <img src="https://leetcard.jacoblin.cool/tushartndon99?theme=dark&font=Baloo" />
 </p>
 
 ---
