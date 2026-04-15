@@ -22,6 +22,7 @@
 ## 🛠 Tech Stack
 
 ### 💻 Languages
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=c%2B%2B)
 ![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python)
 
@@ -75,6 +76,9 @@
   </a>
   <a href="https://leetcode.com/tushartandon99">
     <img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode">
+  </a>
+  <a href="mailto:tushartandon99@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail">
   </a>
 </p>
 
